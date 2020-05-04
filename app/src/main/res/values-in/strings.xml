@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Password Manager</string>
+    <string name="search">Cari</string>
+    <string name="name">Nama</string>
+    <string name="website_url">URL Situs</string>
+    <string name="save">Simpan</string>
+    <string name="password_name">Nama Password</string>
+    <string name="password_url">URL Password</string>
+    <string name="account_name">Nama Akun</string>
+    <string name="password">Password</string>
+    <string name="add_account">Tambah Akun</string>
+    <string name="username">Username</string>
+    <string name="cancel">Batal</string>
+    <string name="account">Akun</string>
+    <string name="website_name">Nama Situs</string>
+    <string name="add_password">Tambah Password</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="websites_account">Akun Situs</string>
+    <string name="edit_password" >Edit Password</string>
+    <string name="edit">Edit</string>
+    <string name="close">Tutup</string>
+    <string name="delete">Hapus</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Password Manager</string>
+    <string name="search">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="website_url">Website URL</string>
+    <string name="save">Save</string>
+    <string name="password_name">Password Name</string>
+    <string name="password_url">Password URL</string>
+    <string name="account_name">Account Name</string>
+    <string name="password">Password</string>
+    <string name="add_account">Add Account</string>
+    <string name="username">Username</string>
+    <string name="cancel">Cancel</string>
+    <string name="account">Account</string>
+    <string name="website_name">Website Name</string>
+    <string name="add_password">Add Password</string>
+    <string name="websites_account">Websites Account</string>
+    <string name="edit">Edit</string>
+    <string name="close">Close</string>
+    <string name="delete">Delete</string>
+    <string name="edit_password" >Edit Password</string>
+</resources>
